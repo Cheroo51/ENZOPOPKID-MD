@@ -1,78 +1,136 @@
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## SCENE-MD BY BELTAH
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=SCENE+MD+;A+WHATSAPP+BOT;CREATED+BY+BELTAH+TECH" alt="Typing SVG" /></a>
-  </p>
-<div align="center">
-
-| [![Beltah KE](https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg?lenght=50width=50)](https://github.com/Beltahtech)|
-|----|
-
-<p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=SCENE-MD+100%+Is+Safe+on+Heroku" alt="">
-</p>
-<p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-BELTAH TECH-red.svg?style=for-the-badge&logo=github"></a>
-<p/>
-<p align="center">
-<a href="https://github.com/Beltah-MD? tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Beltahtech?label=Followers&style=social"></a>
-<a href="https://github.com/Beltahtech/Beltah-Bot/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Beltahtech/Beltah-Bot?&style=social"></a>
-<a href="https://github.com/Beltahtech/Beltah-Bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Beltahtech/Beltah-Bot?style=social"></a>
-<a href="https://github.com/Beltatech/Beltah-Bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Beltahtech/Beltah-Bot?label=Watching&style=social"></a>
-
-  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+ </h1> 
+<p align="center">enzo 𝚅 2.𝟶.𝟶
+ 
+ <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=ENZO THE BOT +WHATSAPP; MULTI+SERVICE+REVOLUTIONIZES;CREATE+BY+ENZO+TECH;BOT DATED+06.6.2024" alt="Typing SVG" /></a>
+ <a href="https://whatsapp.com/channel/0029VajJTJp2f3ELCm8FN50D">
+ <img alt="ENZO BUG BOT" height="300" src="https://files.catbox.moe/1z7t58.jpg">
   
-  ## MUST FOLLOW OUR OFFICIAL CHANNEL
-<a href="https://whatsapp.com/channel/0029VaRHDBKKmCPKp9B2uH2F" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
-</a>
+</h1> 
+<p align="center">𝚒𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚒𝚗𝚐<b> ENZO  MD </b>, 𝚊 𝚙𝚘𝚠𝚎𝚛𝚏𝚞𝚕 𝚠𝚊 𝚋𝚘𝚝 </p>
 
-## `INSTALLATION METHODS`🛠️
 
-1. Fork the repo
-    <br>
-<a href='https://github.com/Airforce254/SCENE-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
+  <div align="center">
+  <img src="https://spogit.vercel.app/api?theme=dark&rainbow=true&scan=true" alt="Widget with the current Spotify song"  />
+</div>
 
-2. Get session id by (SCANNING QR1)
-    <br>
-<a href='https://sessions-beltahmd-20vq.onrender.com/qr' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=yellow'/></a>
 
-2. Get session id by (PAIRING CODE)
-    <br>
-<a href='https://sessions-beltahmd-20vq.onrender.com/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id_2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a>
+    
+ 
+ 
+
+
+
+---
 
 
 
 
 
+  **𝐇𝐎𝐖 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘 ENZO 𝐌𝐃 𝐕 2**
 
-#### DEPLOY TO HEROKU 
-
-1. If You don't have a account in Heroku. Create a account.
-    <br>
-<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+ 
 
 
+  **𝟏. 𝐅𝐈𝐑𝐒𝐓 𝐒𝐓𝐄𝐏**
 
-2. Now Deploy
-    <br>
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Airforce254/SCENE-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐅𝐎𝐑𝐊+𝐓𝐇𝐈𝐒+𝐑𝐄𝐏𝐎)](https://git.io/typing-svg)
 
-Enjoy the diverse features of the WhatsApp Bot SCENE-MD to enhance your conversations and make your WhatsApp experience more interesting!
+<a href="https://github.com/Cheroo51/ENZO-V2/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
-## License
 
-The WhatsApp Bot Scene is released under the [MIT License]
 
-# SCENE-MD Developers:
-
-- [**Beltah Tech**](https://github.com/Beltahtech)
-- [**Beltah**](https://github.com/Airforce254)
+**star✨ my repo if you like this bot🤖**
 
 
 
 
 
-©SCENE-MD BOT BY BELTAH-TECH254 ♻️ 
+
+
+   **𝟐. 𝐒𝐄𝐂𝐎𝐍𝐃 𝐒𝐓𝐄𝐏**
+
+  
+
+
+  
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐆𝐄𝐓+𝐒𝐄𝐒𝐒𝐈𝐎𝐍+𝐈𝐃)](https://git.io/typing-svg)
+
+
+<a href="https://enzo-md-sessions-generator.onrender.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+
+ 
+
+<a href="https://enzo-md-sessions-generator.onrender.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+
+
+  **𝟑.𝐓𝐇𝐈𝐑𝐃 𝐒𝐓𝐄𝐏**  
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐇𝐄𝐑𝐎𝐊𝐔)](https://git.io/typing-svg)
+  
+
+<a
+      href='https://signup.heroku.com/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-CREAT -purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+
+
+<a
+      href='https://dashboard.heroku.com/new?template=https://github.com/Cheroo51/ENZO-V2/tree/main' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=yellow&lines=■+■+■+■+■+100%+safe+on+heroku)](https://git.io/typing-svg)
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+ **𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐎𝐖𝐍𝐄𝐑**
+
+<table>
+  <tr>
+    <td>ENZO</td>
+    <td>𝚠𝚊 𝚌𝚑𝚊𝚗𝚗𝚎𝚕</td>
+  </tr>
+  <tr>
+    <td><a href="https://wa.link/609op3"><img src="https://i.ibb.co/1RVj1GQ/IMG-20240917-WA0296-1.jpg" width="180"</td>
+    <td><a href="https://whatsapp.com/channel/0029VajJTJp2f3ELCm8FN50D"><img src="https://i.ibb.co/1RVj1GQ/IMG-20240917-WA0296-1.jpg" width="180"</td>
+  </tr>
+</table>
+
+
+
+<table>
+  <tr>
+    <td>𝚢𝚘𝚞 𝚝𝚞𝚋𝚎</td>
+    <td>𝚃𝚒𝚔 𝚝𝚘𝚔</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/@AronKiprotich-n9l"><img src="https://i.ibb.co/1RVj1GQ/IMG-20240917-WA0296-1.jpg" width="180"</td>
+    <td><a href="https://www.tiktok.com/@kiprotich.enzo?_t=8pzRyxGqQ4b&_r=1"><img src="https://i.ibb.co/1RVj1GQ/IMG-20240917-WA0296-1.jpg" width="180"</td>
+  </tr>
+</table>
+
+
+
+
+
+ *𝚔𝚎𝚎𝚙 𝚞𝚜𝚒𝚗𝚐 ENZO 𝚖𝚍 𝚋𝚘𝚝*
+
+
+
+
+
+
+
+*𝙽𝚘𝚝𝚎* :*ENzo 𝚖𝚍 𝚒𝚜 𝚜𝚊𝚏𝚎 𝚘𝚗 𝚑𝚎𝚛𝚘𝚔𝚞 𝚌𝚘𝚗𝚝𝚊𝚌𝚝 𝚘𝚠𝚗𝚎𝚛 𝚏𝚘𝚛 𝚖𝚘𝚛𝚎 𝚒𝚗𝚏𝚘*
+
+
+
+
+
+
